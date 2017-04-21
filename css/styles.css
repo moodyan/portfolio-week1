@@ -11,7 +11,7 @@
   vertical-align: middle;
 }
 
-#about {
+#head {
   margin-top: 75px;
 }
 
@@ -30,4 +30,19 @@
 #about-pictures {
   background-color: lightsteelblue;
   text-align: center;
+}
+
+#education {
+  background-color: lightcoral;
+  height: 150px;
+}
+
+#jobexperience {
+  background-color: lightsteelblue;
+  height: 150px
+}
+
+#whyprogramming {
+  background-color: lightseagreen;
+  height: 150px;
 }
