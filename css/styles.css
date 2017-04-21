@@ -100,3 +100,7 @@
 #float-pics {
   float: inherit;
 }
+
+.img-responsive {
+  border: 5px lightcoral;
+}
