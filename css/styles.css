@@ -13,6 +13,7 @@
 
 #head {
   margin-top: 75px;
+  margin-bottom: 30px;
 }
 
 #about-head {
@@ -57,4 +58,17 @@
   margin-bottom: 0;
   font-size: 25px;
   color: black;
+}
+
+
+#project1 {
+  background-color: lightcoral!important;
+}
+
+#project2 {
+  background-color: lightsteelblue!important;
+}
+
+#project3 {
+  background-color: lightseagreen!important;
 }
