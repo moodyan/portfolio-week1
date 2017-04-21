@@ -33,16 +33,28 @@
 }
 
 #education {
-  background-color: lightcoral;
+  background-color: lightcoral!important;
   height: 150px;
 }
 
 #jobexperience {
-  background-color: lightsteelblue;
+  background-color: lightsteelblue!important;
   height: 150px
 }
 
 #whyprogramming {
-  background-color: lightseagreen;
+  background-color: lightseagreen!important;
   height: 150px;
+}
+
+.panel {
+  background-color: white;
+  border: 0;
+}
+
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 25px;
+  color: black;
 }
