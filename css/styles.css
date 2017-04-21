@@ -93,6 +93,10 @@
   background-color: lightcoral;
 }
 
+#about-body {
+  font-size: 20px;
+}
+
 #float-pics {
   float: inherit;
 }
