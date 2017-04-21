@@ -16,7 +16,7 @@ _This is a portfolio webpage created as my first solo project during the first w
 
 ## Known Bugs
 
-_No known bugs_
+_Drop down navigation menu for mobile devices not working. Disorganized page for mobile content on About Me page._
 
 ## Support and contact details
 
