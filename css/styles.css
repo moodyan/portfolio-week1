@@ -10,3 +10,22 @@
   padding-left: 30px;
   vertical-align: middle;
 }
+
+#about {
+  margin-top: 75px;
+}
+
+#about-head {
+  background-color: lightcoral;
+  height: 400px;
+}
+
+#about-more {
+  background-color: lightseagreen;
+  height: 400px;
+}
+
+#about-pictures {
+  background-color: lightsteelblue;
+  text-align: center;
+}
